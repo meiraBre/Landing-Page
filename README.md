@@ -23,7 +23,7 @@ Desenvolvi minha primeira landing page com o auxílio do youtube para praticar m
 - Faça o push para a branch (git push origin feature/nova-feature)
 - Abra um Pull Request
 
-## 💖Agradeimentos
+## 💖Agradecimentos
 Feito com muito carinho!
 ### Conecte-se comigo:
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Logo do Projeto" width="20" height="20"> [Linkedin](https://www.linkedin.com/in/meirabrenda540/)
